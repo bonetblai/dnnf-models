@@ -22,6 +22,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <math.h>
+#include <limits.h>
 
 namespace nnf {
 

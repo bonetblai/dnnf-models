@@ -27,6 +27,7 @@
 #include <ctype.h>
 #include <fstream>
 #include <string>
+#include <strings.h>
 
 namespace satlib {
 
